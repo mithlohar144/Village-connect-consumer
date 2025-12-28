@@ -1,0 +1,8 @@
+{
+  "name": "Village Connect consumer",
+  "description": "A mobile super app for rural communities, providing a marketplace (Mandi), service bookings, and a reward-based social contribution system.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
